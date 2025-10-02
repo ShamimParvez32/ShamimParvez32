@@ -1,5 +1,6 @@
 👋 Hi, I'm Shamim Parvez
-<img width="1024" height="1024" alt="Generated Image October 03, 2025 - 12_47AM" src="https://github.com/user-attachments/assets/07f59af8-2f81-4c5a-9fa3-117073c9d675" />
+
+<img width="300" height="200" alt="flutter pic" src="https://github.com/user-attachments/assets/0fe2acc8-c688-4046-92be-d6fc69cf081f" />
 
 🚀 Aspiring Flutter Developer | Passionate about building cross-platform mobile apps
 💻 Skilled in Dart, Flutter, Firebase, REST APIs, Supabase, GetX, Provider
