@@ -1,4 +1,5 @@
 👋 Hi, I'm Shamim Parvez
+<img width="1024" height="1024" alt="Generated Image October 03, 2025 - 12_47AM" src="https://github.com/user-attachments/assets/07f59af8-2f81-4c5a-9fa3-117073c9d675" />
 
 🚀 Aspiring Flutter Developer | Passionate about building cross-platform mobile apps
 💻 Skilled in Dart, Flutter, Firebase, REST APIs, Supabase, GetX, Provider
@@ -23,31 +24,3 @@
 •	Software: Android Studio
 •	Soft Skills: Problem-solving, teamwork, adaptability
 
-📂 Featured Projects
-
-🔹 Task Manager (REST APIs + Provider + GetX + Firebase)
-
-🔹 E-commerce App
-
-🔹 Google Maps with Geolocator
-
-🔹 Food Recipe App
-
-🔹 CRUD App
-
-🔹 Todo Apps (Supabase & Local Storage)
-
-🎓 Certification
-
-📜 App Development with Flutter – Ostad (1 year)
-View Certificate
-
-🌐 Connect with Me
-
-📧 Email: shamimmnb@gmail.com
-
-💻 GitHub: ShamimParvez32
-
-🔗 LinkedIn: Shamim Parvez
-
-🌍 Portfolio: Ostad Profile
