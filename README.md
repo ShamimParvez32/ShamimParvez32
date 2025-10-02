@@ -2,11 +2,8 @@
 
 <img width="500" height="350" alt="flutter pic" src="https://github.com/user-attachments/assets/64eca134-dd2b-4268-babe-d23d25c5d3d5" />
 
-🚀 Aspiring Flutter Developer | Passionate about building cross-platform mobile apps
-💻 Skilled in Dart, Flutter, Firebase, REST APIs, Supabase, GetX, Provider
-
 🧑‍💻 About Me
- Dedicated to creating user-friendly, scalable, and efficient apps. Always exploring new technologies & best practices in Flutter. Background in Economics, with professional  experience in IT and ERP systems. Currently focusing on real-world app development with Flutter
+ Dedicated to creating user-friendly, scalable, and efficient apps. Always exploring new technologies & best practices in Flutter. Background in Economics, with professional     experience in IT and ERP systems. Currently focusing on real-world app development with Flutter
 
 🛠️ Skills & Tools
 •	Languages & Frameworks: Dart, Flutter
