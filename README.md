@@ -1,4 +1,4 @@
-						                     👋 Hi, I'm Shamim Parvez
+						                    👋 Hi, I'm Shamim Parvez
 
 <img width="500" height="350" alt="flutter pic" src="https://github.com/user-attachments/assets/64eca134-dd2b-4268-babe-d23d25c5d3d5" />
 
